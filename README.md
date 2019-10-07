@@ -12,3 +12,5 @@ It uses three packages other than the Gazebo (for simulation) and the Rviz (for 
   while avoiding obstacles on its path.
 
 - add_markers - This is a package with a node to model a virtual object with markers in rviz. The virtual object first appears in its pickup zone, disappears to represent being picked up when your robot arrives at the first goal and then re-appears at the drop zone to represent being delivered when your robot arrives at the second goal.
+
+<img src="https://raw.githubusercontent.com/sungpily/RobotND-HomeServiceRobot/master/screenshot/Screenshot%20from%202019-10-05%2012-20-09.png" width="500">
